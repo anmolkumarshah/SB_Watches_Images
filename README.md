@@ -7,7 +7,7 @@ THIS IS IMAGE REPOSITORY FOR SB WATCHES STORE
 - **color**: `["silver"]`
 - **cutPrice**: `14000`
 - **description**: `"A classic silver watch with manual winding, ideal for elegant evenings."`
-- **gender**: `"female"`
+- **gender**: `"female"`  only female or male .. all lowercase
 - **images**:
   - `<image_url_1>`
   - `<image_url_2>`
